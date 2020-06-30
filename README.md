@@ -22,15 +22,19 @@ Try to build a row or column of four tokens before your opponent.
 - How do i alternate between turns?
 - Onclick method to drop tokens?
 - get icons from online icon directory?
+- how do i log the results? 
+- how to reset game?
 
 ## Wireframe
-![](Wireframe/IMG_2196.jpg)
+![](Wireframe/IMG_2198.jpg)
 
-## Timeline
-Tuesday (today)- proposal / start html javascript css pages
-Wednesday - use grid to create gameboard and webpage layout
-Thursday
-Friday
-Saturday
-Sunday
-Monday
+## Timeline*
+1. Tuesday (today)- proposal / start html javascript css pages
+2. Wednesday - use grid to create gameboard and webpage layout/ javascript
+3. Thursday - javascript
+4. Friday - javascript
+5. Saturday - javascript
+6. Sunday - javascript/css
+7. Monday - polishing
+
+*In a perfect world! lol
