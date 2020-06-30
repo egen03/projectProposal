@@ -25,3 +25,12 @@ Try to build a row or column of four tokens before your opponent.
 
 ## Wireframe
 ![](Wireframe/IMG_2196.jpg)
+
+## Timeline
+Tuesday (today)- proposal / start html javascript css pages
+Wednesday - use grid to create gameboard and webpage layout
+Thursday
+Friday
+Saturday
+Sunday
+Monday
