@@ -1,6 +1,6 @@
 # projectProposal
 What game will I create? 
-Connect Four
+Trivia Game
 
 ### Technologies used:
 javascript
@@ -8,25 +8,22 @@ html
 css
 
 ### Approach taken:
-Game Choice - Connect Four
+Game Choice - Trivia Game
 PsuedoCode Instructions
 
 
 ## Rules of the game
 
-Try to build a row or column of four tokens before your opponent.
+Answer as many questions as you can correctly. Player with the most questions right wins.
 
 ## Technical Challenges
 
-- Build game board using grid?!
 - How do i alternate between turns?
-- Onclick method to drop tokens?
-- get icons from online icon directory?
 - how do i log the results? 
 - how to reset game?
 
 ## Wireframe
-![](Wireframe/IMG_2198.jpg)
+![]()
 
 ## Timeline*
 1. Tuesday (today)- proposal / start html javascript css pages
