@@ -27,10 +27,10 @@ Answer as many questions as you can correctly. Player with the most questions ri
 
 ## Timeline*
 1. Tuesday (today)- proposal / start html javascript css pages
-2. Wednesday - use grid to create gameboard and webpage layout/ javascript
-3. Thursday - javascript
-4. Friday - javascript
-5. Saturday - javascript
+2. Wednesday - create question and answer layout/ use buttons for multiple choice
+3. Thursday - javascript for right/wrong answer animation
+4. Friday - javascript for keeping score, alternating between players, resetting
+5. Saturday - javascript use of dom manipulation
 6. Sunday - javascript/css
 7. Monday - polishing
 
