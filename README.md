@@ -23,7 +23,7 @@ Answer as many questions as you can correctly. Player with the most questions ri
 - how to reset game?
 
 ## Wireframe
-![]()
+![](Wireframe/image0.jpeg)
 
 ## Timeline*
 1. Tuesday (today)- proposal / start html javascript css pages
